@@ -1,0 +1,1 @@
+#Practice for saved state of recyclerview between screen changes
